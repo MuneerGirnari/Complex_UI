@@ -115,9 +115,7 @@
   .image-description{
       margin: 0 auto;
   }
-  /* .container .image-grid{
-      margin-left: 20%;
-  } */
+ 
   
   .image-grid{
       display: grid;
@@ -210,9 +208,6 @@
   .image-description{
       margin: 0 auto;
   }
-  /* .container .image-grid{
-      margin-left: 20%;
-  } */
   
   .image-grid{
       display: grid;
